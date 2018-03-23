@@ -1,3 +1,3 @@
-# Mon projet Web #
+# Mon projet Web
 
 Ceci est mon projet web poche
